@@ -12,6 +12,7 @@ Una vez dentro, se desplegara un menú el cual contiene los botones con cada uno
 ![img1](imagenes/img2.jpg)
 
 Al acceder puedes probar el ejercicio con total comodidad, cada uno cuenta con un boton al final del ejercicio para volver al menú y seleccionar otro ejercicio
+
 ![img1](imagenes/img1.jpg)
 
 --------------------------------------------
